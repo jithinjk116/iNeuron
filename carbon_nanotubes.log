@@ -1,0 +1,12 @@
+2022-02-24 22:22:44,753 INFO Creating Database and Collection
+2022-02-24 22:22:44,754 INFO Initiating CSV file read and operations
+2022-02-24 22:22:44,754 INFO Reading csv file
+2022-02-24 22:22:44,754 INFO Getting the header record for using as keys
+2022-02-24 22:22:44,756 INFO Skipping the first line from csv
+2022-02-24 22:34:15,313 INFO File has been read successfully and uploaded to MongoDB
+2022-02-24 22:34:15,314 INFO Inserting individual record
+2022-02-24 22:34:15,373 INFO Insertion Successfull
+2022-02-24 22:34:15,601 INFO Updation Successfull
+2022-02-24 22:34:15,755 INFO Deletion Successfull
+2022-02-24 22:34:15,756 INFO Find Successfull
+2022-02-24 22:34:17,794 INFO Filter Successfull
